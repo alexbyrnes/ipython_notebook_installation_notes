@@ -1,0 +1,6 @@
+tornado 
+pygments 
+pyzmq
+nose 
+jinja2
+-e git+https://github.com/ipython/ipython.git#egg=ipython
